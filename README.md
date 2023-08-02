@@ -3,9 +3,7 @@ Search Problems
 
 Descrição do Trabalho
 
-#################################################### 
 #----------------- Questão 1 (Q1) -----------------#
-#################################################### 
 
 Implementar e comparar o desempenho dos algoritmos de busca:
 (i) Depth-first search, 
