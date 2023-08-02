@@ -21,12 +21,13 @@ de bloqueio 50%, e as métricas de comparação são:
 3. número de nós gerados;
 4. custo do caminho e
 5. tamanho do caminho.
+   
 Você deverá criar uma Tabela comparativa com os algoritmos de busca (nas linhas) e as
 respectivas métricas resultantes (nas colunas) para cada algoritmo.
 Ao medir o tempo de execução, desligue a visualização porque o custo de atualização da
 visualização é maior que o custo do algoritmo. Para a comparação ser justa, tome o cuidado de
 usar o mesmo labirinto em todos os casos (e.g., fixe o parâmetro seed=42 da classe MazeProblem).
-Bom trabalho!
+
 Questão 2 (Q2)
 Implementar os algoritmos UCS e A* search para o problema de roteamento entre cidades
 descrito no livro-texto da disciplina. O roteamento deve ser feito entre as cidades ‘Arad’ e
