@@ -2,8 +2,9 @@
 Search Problems
 
 Descrição do Trabalho
+
 Questão 1 (Q1)
-Implementar e comparar o desempenho dos algoritmos de busca: (i) Depth-first search, (ii)
+Implementar e\\ comparar o desempenho dos algoritmos de busca: (i) Depth-first search, (ii)
 Uniform cost search e (iii) A* search. Os algoritmos de busca podem ser úteis em entrevistas de
 programação em empresas de grande porte, então considere este tempo de implementação
 como um investimento na sua carreira. Para ajudá-los a começar e prover um ambiente para
