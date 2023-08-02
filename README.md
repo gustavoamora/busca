@@ -3,7 +3,7 @@ Search Problems
 
 Descrição do Trabalho
 
-#-------------------- Questão 1 (Q1) --------------------#
+############################ Questão 1 (Q1) ############################
 
 Implementar e comparar o desempenho dos algoritmos de busca:
 (i) Depth-first search, 
@@ -34,7 +34,7 @@ Ao medir o tempo de execução, desligue a visualização porque o custo de atua
 visualização é maior que o custo do algoritmo. Para a comparação ser justa, tome o cuidado de
 usar o mesmo labirinto em todos os casos (e.g., fixe o parâmetro seed=42 da classe MazeProblem).
 
-#-------------------- Questão 2 (Q2) --------------------#
+############################ Questão 2 (Q2) ############################
 
 Implementar os algoritmos UCS e A* search para o problema de roteamento entre cidades
 descrito no livro-texto da disciplina. O roteamento deve ser feito entre as cidades ‘Arad’ e
