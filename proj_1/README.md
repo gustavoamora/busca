@@ -29,13 +29,13 @@ usar o mesmo labirinto em todos os casos (e.g., fixe o parâmetro seed=42 da cla
 
 ## Questão 2 (Q2) 
 
-Implementar os algoritmos UCS e A* search para o problema de roteamento entre cidades
-descrito no livro-texto da disciplina. O roteamento deve ser feito entre as cidades ‘Arad’ e
-‘Bucharest’. 
+Implementar os algoritmos UCS e A* search para o problema clássico de roteamento entre cidades
+da Romêmia. O roteamento deve ser feito entre as cidades ‘Arad’ e ‘Bucharest’. 
 Compare os resultados obtidos pela aplicação dos algoritmos UCS e A* search em relação ao
 (i)caminho obtido e (ii) custo do caminho através de uma tabela.
 
 ## Relatório
+
 Em adição aos códigos, deve ser escrito um relatório curto (3-4 páginas) com a estrutura abaixo:
 · Fundamentação Teórica: Descrever brevemente os algoritmos implementados e suas
 diferenças. Faça uma tabela com as complexidades dos algoritmos BFS, DFS, UCS e A*.
