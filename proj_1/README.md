@@ -10,13 +10,6 @@ Implementar e comparar o desempenho dos algoritmos de busca:
 (ii)Uniform cost search e 
 (iii) A* search. 
 
-Os algoritmos de busca podem ser úteis em entrevistas de
-programação em empresas de grande porte, então considere este tempo de implementação
-como um investimento na sua carreira. Para ajudá-los a começar e prover um ambiente para
-testes dos algoritmos, é fornecida uma implementação do algoritmo breadth-first search para
-busca de caminho em um labirinto em anexo à esta especificação. Você deve utilizar a estrutura
-de dados fornecida por essa implementação para implementar os demais algoritmos solicitados
-neste trabalho.
 Para o desenvolvimento do trabalho não é permitido o uso de bibliotecas que implementem os
 algoritmos, mas é permitido usar bibliotecas auxiliares, e.g., que implementem estruturas de
 dados (ex: NetworkX, etc).
